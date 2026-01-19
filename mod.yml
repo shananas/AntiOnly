@@ -1,6 +1,6 @@
 title: Anti Only
 original Author: Shananas
-description: Play as Anti Form the whole time. (Except Pride Lands and Atlantica) To allow the game to be beaten you will not have the increased damage Anti Form takes and you will be able to use items and magic.
+description: Play as Anti Form the whole time (Except Pride Lands and Atlantica). To allow the game to be beaten you will not have the increased damage Anti Form takes and you will be able to use items and magic. If you want to play without KH2Randomizer you must also install "shananas/FormOnlyVanillaCompanion" and place it above this mod.
 assets:
 #shopFace fix Lua thanks to TopazTK
 - name: scripts/shopfaceReconstruct.lua
@@ -138,4 +138,5 @@ assets:
     method: listpatch
     source:
     - name: 00battle.bin/PlrpList.yml
+
       type: plrp
