@@ -7,6 +7,7 @@ assets:
   method: copy
   source: 
   - name: shopfaceReconstruct.lua
+#Luxord Fix
 - name: scripts/ValorLuxordFix.lua
   method: copy
   source: 
@@ -62,7 +63,7 @@ assets:
   method: copy
   source:
   - name: obj/P_EX100_HTLF.mset
-#Luord Fix
+#Valor is Anti
 - name: obj/P_EX100_BTLF.mdlx
   method: copy
   source:
